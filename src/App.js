@@ -9,11 +9,13 @@ function App() {
         <p>
           Tonces texto
         </p>
+        <img src={'https://cdn.pixabay.com/photo/2017/12/31/13/49/barn-owl-3052382_1280.jpg'} />
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          
         >
           Learn React
         </a>
